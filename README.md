@@ -11,8 +11,8 @@ CircleImageView
 Toasty
 
 ## ScreenShots
-![Main](https://raw.githubusercontent.com/mohammedSlimani/My-professors-list/master/screenShots/Adding\ user.png)
+![Main](https://raw.githubusercontent.com/mohammedSlimani/My-professors-list/master/screenShots/Adding user.png)
 
-![After Login](https://raw.githubusercontent.com/mohammedSlimani/My-professors-list/master/screenShots/After\ the\ login.png)
+![After Login](https://raw.githubusercontent.com/mohammedSlimani/My-professors-list/master/screenShots/After the login.png)
 
 
